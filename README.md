@@ -4,5 +4,5 @@
 - 🔭 I’m currently working on ...Devops tools
 - 🌱 I’m currently learning ...Kubernetes Security and GitOps
 - 💬 Ask me about ...Devops and its tools
-- 📫 How to reach me: ...ns476280@gmail.com
+- 📫 How to reach me: ...ns476280@gmail.com or niteshkumar.sharma830@gmail.com
 
